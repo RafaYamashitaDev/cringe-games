@@ -1,6 +1,6 @@
 # Cringe Games
 
-Cringe Games is a collection of simple, fast, clean, and free games.
+Cringe Games is a collection of simple, fast, and free games.
 
 The project focuses on games that might affectionately be considered
 old-fashioned, unfashionable, overly familiar, or simply "cringe",
@@ -12,15 +12,12 @@ but that remain genuinely enjoyable to play.
 
 FreeCell is the first game being developed for Cringe Games.
 
-The project will begin by validating FreeCell on the web before
-developing the primary mobile experience with Flutter.
+FreeCell's platforms (web and mobile) will be covered in its own docs.
 
-Additional games are planned, but have not yet been defined as part
-of the implementation scope.
+Additional games are expected but deliberately unspecified.
 
-## Project principles
+## Engineering Principles
 
-- Keep the games simple and fast.
 - Prefer straightforward technology over unnecessary complexity.
 - Treat testing, source control, deployment, and production readiness
   as part of development.
@@ -30,6 +27,4 @@ of the implementation scope.
 
 ## Status
 
-Product and FreeCell domain specification.
-
-Implementation has not started.
+Product vision defined. FreeCell specification in progress. Implementation not started.
